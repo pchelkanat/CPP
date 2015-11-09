@@ -11,9 +11,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{541F05F9-9CC3-40B8-8C98-F879A69C808A}</ProjectGuid>
+    <ProjectGuid>{A5EA8AF5-95CD-4A79-9D56-A9BE0749AE18}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Controlv11</RootNamespace>
+    <RootNamespace>Controlv12</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -83,7 +83,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Control-v1-1.cpp" />
+    <ClCompile Include="Control-v1-2.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
