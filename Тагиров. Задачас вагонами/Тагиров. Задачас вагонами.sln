@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Тагиров. Задачас вагонами", "Тагиров. Задачас вагонами\Тагиров. Задачас вагонами.vcxproj", "{9B647482-A19D-4092-A727-CEAEC390CFC5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Тагиров. Задача с вагонами 2", "Тагиров. Задача с вагонами 2\Тагиров. Задача с вагонами 2.vcxproj", "{196DC487-E84D-495A-BBFC-7B11EB90EF88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B647482-A19D-4092-A727-CEAEC390CFC5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9B647482-A19D-4092-A727-CEAEC390CFC5}.Debug|Win32.Build.0 = Debug|Win32
+		{9B647482-A19D-4092-A727-CEAEC390CFC5}.Release|Win32.ActiveCfg = Release|Win32
+		{9B647482-A19D-4092-A727-CEAEC390CFC5}.Release|Win32.Build.0 = Release|Win32
+		{196DC487-E84D-495A-BBFC-7B11EB90EF88}.Debug|Win32.ActiveCfg = Debug|Win32
+		{196DC487-E84D-495A-BBFC-7B11EB90EF88}.Debug|Win32.Build.0 = Debug|Win32
+		{196DC487-E84D-495A-BBFC-7B11EB90EF88}.Release|Win32.ActiveCfg = Release|Win32
+		{196DC487-E84D-495A-BBFC-7B11EB90EF88}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
