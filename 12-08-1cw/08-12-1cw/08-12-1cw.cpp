@@ -37,7 +37,7 @@ void print2(){
                 for(j=p;j>k;j--)    
                         cout<<setw(2)<<a[p][j]<<" ";
                 for(i=p;i>k;i--)             
-						cout<<setw(2)<<a[i][k]<<" ";}}
+			cout<<setw(2)<<a[i][k]<<" ";}}
 
 
 
