@@ -1,1 +1,2 @@
-<b>Homework & Classwork</b>
+<b>Homework & Classwork</b><br>
+Указание в именовании проектов: <месяц> - <день> - <номер задания>
